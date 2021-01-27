@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx rubiusvsgerman/
+web: vendor/bin/heroku-php-apache2 rubiusvsgerman/
