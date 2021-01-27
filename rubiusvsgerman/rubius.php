@@ -1,3 +1,3 @@
 <?php
-  include_once("rubiusvsgerman/rubiusvsgerman.html");
+  include_once("rubiusvsgerman.html");
 ?>
